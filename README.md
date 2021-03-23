@@ -12,7 +12,6 @@ $ node b.mjs
 You should see the following console output:
 
 ```log
-(node:5777) ExperimentalWarning: The ESM module loader is experimental.
 [Module] {  }
 ```
 
